@@ -1,6 +1,6 @@
 # my_awesome_sanwi
 
-A new Flutter project.
+A new Flutter project by Sanwi.
 
 ## Getting Started
 
